@@ -21,7 +21,7 @@
 				<string>testing</string>
 			</array>
 			<key>description</key>
-			<string> </string>
+			<string>Customize boot screen color on OS X</string>
 			<key>developer</key>
 			<string>wolfgang baird</string>
 			<key>display_name</key>
@@ -29,7 +29,7 @@
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>category</key>
-			<string>Utilites</string>
+			<string>Utilities</string>
 			<key>unattended_install</key>
 			<true/>
 		</dict>
